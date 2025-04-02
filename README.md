@@ -42,7 +42,7 @@ To replicate the experiment, follow these steps:
 If you use these materials in your research, please cite our work as follows:
 
 ```
-[Your citation information, to be added post-publication]
+[Citation information, to be added post-publication]
 ```
 
 ## License
