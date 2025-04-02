@@ -1,4 +1,4 @@
-# Enhancing Data Literacy in Blind and Visually Impaired Students Through AI-Assisted Data Storytelling
+# Inclusive Data Literacy: UDL and AI-Assisted Data Storytelling for Blind and Visually Impaired Students 
 
 This repository contains supplementary materials accompanying the paper "Enhancing Data Literacy in Blind and Visually Impaired Students Through AI-Assisted Data Storytelling," submitted to AIED 2025. It provides all necessary resources to replicate the experiment described in the study.
 
